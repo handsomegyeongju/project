@@ -1,0 +1,74 @@
+h1 {
+    text-align: center; 
+    margin: 50px auto 10px;
+}
+h1 a {}
+h1 a img {
+    width:200px;
+}
+main {
+    width: 500px;  
+    margin: auto;
+}
+main #loginFrm {border-bottom: 1px solid #ccc; margin-bottom: 20px; padding-bottom: 20px;}
+
+main #loginfrm #login_btn {
+    background: #346aff;
+    border: none;
+    color: #fff;
+    padding: 20px 0;
+    width: 494px;
+    font-size: 16px;
+    line-height: 19px;
+    border-radius: 4px;
+
+}
+.join_link {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    color:#454f5b;
+    font-size: 16px;
+    display: block;
+    text-align: center;
+    margin-left: 2px;
+    background: #fff;
+    padding: 20px 0;
+    width: 494px;
+    box-shadow: 0 2px 0 #eee;
+    left: 55px;
+    cursor: pointer;
+}
+footer {
+    text-align: center; 
+    font-size: 0.85rem; 
+    margin-top: 20px;
+    color: #333;
+}
+
+
+
+
+div.flex {
+    float: right;
+    position: relative;
+    padding-right: 12px;
+    top: -1px;
+}
+
+.autologin{
+    position: relative;
+    display: inline-block;
+    top: 35px;
+}
+.line{
+    position: relative;
+    width: 493px;
+    margin-top: 18px;
+    margin-bottom: 22px;
+    color: #c4cdd5;
+}
+.pw_bg {
+    margin-right: -46px;
+    margin-left: 46px;
+    block-size: border-box;
+}
